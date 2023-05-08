@@ -87,7 +87,8 @@ li {
 .container-fluid h2,
 h3 {
   font-size: 35px;
-  color: white !important;
+  color: rgb(14, 11, 11) !important;
+  background-color: #f9dfdc;
   text-decoration: underline;
   text-transform: capitalize;
 }
