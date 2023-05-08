@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #20045b;
+  background-color: #f9dfdc;
+}
+.navbar {
+  background-color: rgb(17, 5, 26);
+  padding: 50px;
+  border-radius: none;
+}
+.nav{
+  display: flex;
+  justify-content: flex-start;
+}
+.navbar a {
+  color: white;
+  padding: 33px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: rgb(250, 159, 207);
+}
+
+.jumbotron {
+  background-color: #0c4271 !important;
+  padding: 33px;
+}
+
+.colorChange {
+  color: white;
+}
+.section-one {
+  font-size: 30px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  height: auto;
+  padding: 33px;
+}
+.dog-link:hover {
+  background-color: #121010;
+  padding: 7px;
+  border-radius: 3.5px;
+  color: black;
+}
+
+.float-right {
+  float: right;
+  width: 40%;
+  height: 40vh;
+}
+
+
+
+.container-fluid {
+  padding: 20px;
+  width: 100%;
+  height: 100vh;
+  display: flexbox;
+}
+.container-fluid p,
+li {
+  font-size: 22px;
+  padding: 5px;
+  color: white;
+}
+
+.container-fluid h2,
+h3 {
+  font-size: 35px;
+  color: white !important;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+
+.container-fluid {
+  background-color: #0c4271;
+}
+
+.idiom{
+  text-transform: uppercase;
+}
+
+.page-footer {
+  border-radius: none;
+  background-color: black;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+
+.page-footer a:hover {
+  background-color: #f9dfdc;
+  padding: 7px;
+  border-radius: 3px;
+  color: black;
+}
+
+
+@media screen and (orientation: portrait){
+ .section-one{
+   height:max-content
+ } 
+}
