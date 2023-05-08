@@ -39,6 +39,11 @@ body {
   padding: 33px;
 }
 
+img {
+  max-width: 200px;
+  max-height: auto;
+}
+
 
 .colorChange {
   color: white;
