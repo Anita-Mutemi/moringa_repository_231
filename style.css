@@ -39,6 +39,7 @@ body {
   padding: 33px;
 }
 
+
 .colorChange {
   color: white;
 }
@@ -95,18 +96,17 @@ h3 {
 .page-footer {
   border-radius: none;
   background-color: black;
-  padding: 30px;
+  padding: 35px;
   color: white;
   text-align: center;
 }
 
 .page-footer a:hover {
   background-color: #f9dfdc;
-  padding: 7px;
+  padding: 6px;
   border-radius: 3px;
   color: black;
 }
-
 
 @media screen and (orientation: portrait){
  .section-one{
