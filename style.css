@@ -36,12 +36,13 @@ body {
 
 .jumbotron {
   background-color: #0c4271 !important;
-  padding: 33px;
+  padding: 100px 50px;
 }
 
 img {
   max-width: 200px;
   max-height: auto;
+  height: 120px;
 }
 
 
