@@ -62,6 +62,7 @@ img {
   padding: 7px;
   border-radius: 3.5px;
   color: black;
+  background-color: bisque;
 }
 
 .float-right {
@@ -80,7 +81,8 @@ img {
 li {
   font-size: 22px;
   padding: 5px;
-  color: white;
+  color: rgb(37, 32, 32);
+  background: #f9dfdc;
   font-family: 'Times New Roman', Times, serif;
 }
 
