@@ -1,7 +1,9 @@
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  background-color: azure;
+  background: url(https://img.freepik.com/free-photo/fading-blue-background_53876-88684.jpg?w=1380&t=st=1683541214~exp=1683541814~hmac=f91eb8bdfa7d4fcf8b152720cc70451f7dba92f50fc1bffeff35175756f7f94c);
+  background-size: cover;
 }
 
 body {
@@ -54,8 +56,6 @@ body {
   width: 40%;
   height: 40vh;
 }
-
-
 
 .container-fluid {
   padding: 20px;
