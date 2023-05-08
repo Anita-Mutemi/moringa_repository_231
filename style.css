@@ -58,11 +58,10 @@ img {
 }
 
 .dog-link:hover {
-  background-color: #121010;
   padding: 7px;
   border-radius: 3.5px;
   color: black;
-  background-color: bisque;
+  background-color: rgba(170, 170,170);
 }
 
 .float-right {
