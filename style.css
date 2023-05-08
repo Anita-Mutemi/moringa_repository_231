@@ -11,7 +11,7 @@ body {
   background-color: #f9dfdc;
 }
 .navbar {
-  background-color: rgb(17, 5, 26);
+  background-color: hsl(223, 68%, 6%)
   padding: 50px;
   border-radius: none;
 }
