@@ -111,7 +111,8 @@ h3 {
   background-color: #f9dfdc;
   padding: 6px;
   border-radius: 3px;
-  color: black;
+  color: rgb(170, 170, 0);
+  background-color: cornsilk;
 }
 
 @media screen and (orientation: portrait){
