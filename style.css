@@ -46,6 +46,7 @@ body {
 }
 
 .dog-link {
+  /**link**/
   background-color: #b7f7f3;
   padding: 3px;
   border-radius: 3.5px;
