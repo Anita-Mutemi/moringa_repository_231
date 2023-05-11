@@ -18,7 +18,8 @@ To set up the portfolio website, follow these steps:
 
 ## Design
 
-![Portfolio Design](file:///home/moringa/Documents/my_portfolio/myportfolio/indexhtml.png)
+![PXL_20230509_194158843](https://github.com/Anita-Mutemi/myportfolio/assets/132679576/023d73e5-f107-4efd-b571-6d33af6c208b)
+
 
 The design for the portfolio website can be found in the attached image. (file:///home/moringa/Documents/my_portfolio/myportfolio/indexhtml.png")
 
