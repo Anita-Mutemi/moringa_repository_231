@@ -20,7 +20,7 @@ To set up the portfolio website, follow these steps:
 ![PXL_20230509_194158843](https://github.com/Anita-Mutemi/myportfolio/assets/132679576/e505a2e0-de46-40c5-902f-2bcaaf94d534)
 
 
-The design for the portfolio website can be found in the attached image. 
+The design for the portfolio website can be found in the attached image. (https://github.com/Anita-Mutemi/myportfolio/assets/132679576/e505a2e0-de46-40c5-902f-2bcaaf94d534)
 
 ## Technologies Used
 
