@@ -8,7 +8,7 @@
 /* Body styles */
 body {
   color: #20045b;
-  background-color: #f9dfdc;
+  background-color: whitesmoke;
 }
 
 /* Navigation styles */
@@ -35,16 +35,18 @@ body {
   color: white;
 }
 
-/* Section One styles */
-.section-one {
+/* Section styles */
+.section {
   font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 20px;
+  margin: 50px;
+  height: 100vh;
 }
 
 .dog-link {
   background-color: #b7f7f3;
-  padding: 7px;
+  padding: 3px;
   border-radius: 3.5px;
   color: black;
 }
@@ -57,21 +59,21 @@ body {
 
 /* Container styles */
 .container-fluid {
-  padding: 20px;
+  padding: 2px;
   height: 100vh;
 }
 
 .container-fluid p,
 .container-fluid li {
-  font-size: 16px;
-  padding: 5px;
+  font-size: 25px;
+  padding: 20px;
   color: white;
 }
 
 .container-fluid h2,
 .container-fluid h3 {
   font-size: 25px;
-  color: white;
+  color: whitesmoke;
   text-decoration: underline;
   text-transform: capitalize;
 }
@@ -105,4 +107,7 @@ body {
   .section-one {
     height: max-content;
   }
+}
+img{
+  float: right;
 }
