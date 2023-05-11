@@ -1,95 +1,77 @@
+/* Reset styles */
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: azure;
-  background: url(https://img.freepik.com/free-photo/fading-blue-background_53876-88684.jpg?w=1380&t=st=1683541214~exp=1683541814~hmac=f91eb8bdfa7d4fcf8b152720cc70451f7dba92f50fc1bffeff35175756f7f94c);
-  background-size: cover;
 }
 
+/* Body styles */
 body {
-  color: #045b0800;
-  background-color: #295488;
-  margin: 100px 50px;
+  color: #20045b;
+  background-color: #f9dfdc;
 }
 
-.navbar a {
-  background-color: hsl(223, 68%, 6%)
-  border-radius; none:
-  padding: 30px;
-  width: 60%;
+/* Navigation styles */
+.navbar {
+  background-color: rgb(17, 5, 26);
+  padding: 20px;
 }
 
-.nav{
-  display: flex;
-  justify-content: flex-start;
-}
 .navbar a {
   color: white;
-  padding: 33px;
-  font-size: 20px;
+  padding: 10px;
+  font-size: 16px;
   text-decoration: none;
 }
 
 .navbar a:hover {
-  background-color: rgb(159, 195, 250);
+  background-color: rgb(250, 159, 207);
 }
 
+/* Jumbotron styles */
 .jumbotron {
-  background-color: #0c4271 !important;
-  padding: 100px 50px;
-}
-
-img {
-  max-width: 200px;
-  max-height: auto;
-  height: 120px;
-}
-
-
-.colorChange {
+  background-color: #0c4271;
+  padding: 20px;
   color: white;
 }
 
+/* Section One styles */
 .section-one {
-  font-size: 30px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-  height: auto;
-  padding: 33px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
 }
 
-.dog-link:hover {
+.dog-link {
+  background-color: #b7f7f3;
   padding: 7px;
   border-radius: 3.5px;
   color: black;
-  background-color: rgba(170, 170,170);
 }
 
 .float-right {
   float: right;
   width: 40%;
-  height: 40vh;
+  height: auto;
 }
 
+/* Container styles */
 .container-fluid {
   padding: 20px;
-  width: 100%;
   height: 100vh;
-  display: flexbox;
 }
+
 .container-fluid p,
-li {
-  font-size: 22px;
+.container-fluid li {
+  font-size: 16px;
   padding: 5px;
-  color: rgb(37, 32, 32);
-  background: #f9dfdc;
-  font-family: 'Times New Roman', Times, serif;
+  color: white;
 }
 
 .container-fluid h2,
-h3 {
-  font-size: 35px;
-  color: rgb(14, 11, 11) !important;
-  background-color: #f9dfdc;
+.container-fluid h3 {
+  font-size: 25px;
+  color: white;
   text-decoration: underline;
   text-transform: capitalize;
 }
@@ -98,28 +80,29 @@ h3 {
   background-color: #0c4271;
 }
 
-.idiom{
+/* Idiom styles */
+.idiom {
   text-transform: uppercase;
 }
 
+/* Footer styles */
 .page-footer {
-  border-radius: none;
   background-color: black;
-  padding: 35px;
+  padding: 20px;
   color: white;
   text-align: center;
 }
 
 .page-footer a:hover {
   background-color: #f9dfdc;
-  padding: 6px;
+  padding: 7px;
   border-radius: 3px;
-  color: rgb(170, 170, 0);
-  background-color: cornsilk;
+  color: black;
 }
 
-@media screen and (orientation: portrait){
- .section-one{
-   height:max-content
- } 
+/* Media Query */
+@media screen and (orientation: portrait) {
+  .section-one {
+    height: max-content;
+  }
 }

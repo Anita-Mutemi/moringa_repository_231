@@ -1,21 +1,40 @@
-![Uploading PXL_20230509_194158843.png…]()
-# moringa_repository_231
-# Portfolio
-#### Anita Portfolio, 8/05/2023
-#### By **moringa**
+# Anita Portfolio
+
+A personal portfolio website is a professional website that provides information about what you do, what services you may offer, and how to contact you or your company. Portfolio websites are an easy way to promote yourself, your brand, or your business.
+
 ## Description
-The website is about Anita Mutemi. It is a persoal portfolio, including contact, names and relevant urls. The projects Anita is working on are included.
-## Setup/Installation Requirements
-* formatting of the .html file by including relevant elements
-* gormat the .css file for the set up of the website
-* ensure you use an external git and in the ssh path
-* in git make at least 20 commits, with every change
-* git push your commands and ru in a valid browser your html and css to het your website as in the photo above
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+
+The website is about Anita Mutemi. It is a personal portfolio, including contact information and relevant URLs. The projects Anita is working on are also included.
+
+## Installation
+
+To set up the portfolio website, follow these steps:
+
+1. Format the HTML file by including relevant elements.
+2. Format the CSS file for the website's design.
+3. Use an external Git repository and provide the SSH path.
+4. Make at least 20 commits in Git, with each change.
+5. Push your commands and run the HTML and CSS files in a valid browser to view your website.
+
+## Design
+
+![Portfolio Design](file:///home/moringa/Documents/my_portfolio/myportfolio/indexhtml.png)
+
+The design for the portfolio website can be found in the attached image. (file:///home/moringa/Documents/my_portfolio/myportfolio/indexhtml.png")
+
 ## Technologies Used
-Languages and techniques used in the chat are; css, html, VS code and git
-## Support and contact details
-incase of any issues conserning the application, you can reach out to, the Moringa School website content
-### License
-*{Built by Anita. Copyright © 2023}* **{Markup Devops}**
+
+The portfolio website is built using custom HTML and CSS. The following languages and tools were used:
+
+- HTML5
+- CSS3
+- VS Code
+- Git
+
+## Contact
+
+In case of any issues or questions regarding the application, you can reach out to the Moringa School website for support.
+
+## License
+
+Built by Anita. &copy; 2023 Markup Devops

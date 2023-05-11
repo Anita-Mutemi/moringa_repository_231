@@ -5,86 +5,70 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="bootstrap.css">
-  
-  <title>Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <title>Anita's Portfolio</title>
 </head>
 
-
 <body>
-  <nav class="navbar" id="nav">
-    <a class="nav-link" href="#section-one">Home</a>
-    <a class="nav-link" href="#project-list">Projects</a>
-    <a class="nav-link" href="#about-me">About Me</a>
-    <a  class="nav-link" href="#contact-me"></a>
-  </nav>
-
-  <nav>
-    <ul class="pager">
-      <li class="previous"><a href="#">Previous</a></li>
-      <li class="next"><a href="#">Next</a></li>
-    </ul>
-  </nav>
+  <header>
+    <nav class="navbar" id="nav">
+      <a class="nav-link" href="#section-one">Home</a>
+      <a class="nav-link" href="#project-list">Projects</a>
+      <a class="nav-link" href="#about-me">About Me</a>
+    </nav>
+  </header>
 
   <div class="jumbotron">
-    <span class="colorChange">
-      <h1>Anita Mutemi</h1>
-    </span>
-    <span class="colorChange">
-      <p>Portfolio Landing Page</p>
-    </span>
+    <h1>Anita Mutemi</h1>
+    <p>Portfolio</p>
   </div>
 
-  <div class="section-one" id="section-one">
-    <img class="float-right" src="images/dianeg.jpg" alt="">
-    <h2>I am an upcoming Software developer,and am eager to learn Front end development and work on more projects in the future</h2>
-    <p> I am a pet lover here is my dog Taylor he is 3years old <a
-        class="dog-link" href="https://barkwiki.com/pomeranian/">Dog</a> that is my bestestfriend <em>and my baby</em></p>
-  </div>
+  <section class="section-one" id="section-one">
+    <div class="image-container">
+      <img src="./images/PXL_20220727_131529599-removebg-preview.png" alt="Anita Mutemi images">
+    </div>
+    <h2>I am an upcoming Software developer, and I am eager to learn Front-end development and work on more projects in
+      the future.</h2>
+    <p>I am a pet lover. Here is my dog Bambi; he is 3 years old. <a class="dog-link"
+        href="https://barkwiki.com/pomeranian/">Dog</a> that is my best friend <em>and my baby</em>.</p>
+  </section>
 
-  <div class="project-list" id="project-list">
+  <section class="project-list" id="project-list">
     <h2>My best works and a short bio about them:</h2>
-    <p>I am currently working on my Portfolio:</p>
-  </div>
+    <p>I currently have no projects of my own, but I am working on:</p>
+  </section>
 
-  <!--About me-->
-
-  <div class="container-fluid">
+  <section class="about-me">
     <h2 id="about-me">About Me</h2>
-
     <div class="row">
       <div class="col-md-6">
         <h3>Background and Skills</h3>
-        <p>I am an aspiring software engineer,from Kitui County. <em>I am specialising on bak-end and a bit of machine learning.</em> I recently joined Moringa school Tech bootcamp becase of my love for technology.</p>
-        <p> I however have basic coding skills. I am self-determined and hoping to reap from my skills soon.</p>
-        <p>This is what I have learnt so far:</p>
-
+        <p>I am an aspiring software engineer from Kitui County. I recently joined Moringa school Tech boot camp because
+          of my love for technology.</p>
+        <p>This is what I have learned so far:</p>
         <ol>
           <li>HTML5</li>
           <li>CSS3</li>
           <li>Git</li>
         </ol>
       </div>
-
       <div class="col-md-6">
         <h3>My Interests and Hobbies</h3>
         <p><span class="idiom">Coding is easy through</span> Practice and more Practice</p>
-        <p>My hobbies include;</p>
+        <p>My hobbies include:</p>
         <ul>
-          <li>coding</li>
+          <li>Coding</li>
           <li>Reading Novels</li>
           <li>Cooking</li>
           <li>Swimming</li>
         </ul>
       </div>
     </div>
-
-
-  </div>
+  </section>
 
   <footer class="page-footer">
-    <p>Built by Anita. Copyright &copy; 2023 <a href="#nav">Back To Top</a></p>
+    <p>Built by Anita. &copy; 2023 <a href="#nav">Back To Top</a></p>
   </footer>
 </body>
 
