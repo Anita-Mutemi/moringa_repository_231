@@ -17,8 +17,7 @@ To set up the portfolio website, follow these steps:
 5. Push your commands and run the HTML and CSS files in a valid browser to view your website.
 
 ## Design
-
-![PXL_20230509_194158843](https://github.com/Anita-Mutemi/myportfolio/assets/132679576/023d73e5-f107-4efd-b571-6d33af6c208b)
+![PXL_20230509_194158843](https://github.com/Anita-Mutemi/myportfolio/assets/132679576/e505a2e0-de46-40c5-902f-2bcaaf94d534)
 
 
 The design for the portfolio website can be found in the attached image. (file:///home/moringa/Documents/my_portfolio/myportfolio/indexhtml.png")
