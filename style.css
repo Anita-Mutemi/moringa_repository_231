@@ -10,6 +10,12 @@ body {
   color: #20045b;
   background-color: whitesmoke;
 }
+header{
+  display: grid;
+  grid-template-columns: (3, 1fr);
+  justify-content: left;
+  
+}
 
 /* Navigation styles */
 .navbar {
@@ -113,4 +119,8 @@ body {
 }
 img{
   float: right;
+}
+#hr {
+  border: 2px;
+
 }
