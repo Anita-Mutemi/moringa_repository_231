@@ -17,7 +17,7 @@ To set up the portfolio website, follow these steps:
 5. Push your commands and run the HTML and CSS files in a valid browser to view your website.
 
 ## Design
- ![](photos/design.png)
+ ![](design.png)
 - The design for the portfolio website can be found in the attached image.
 
 ## Technologies Used
